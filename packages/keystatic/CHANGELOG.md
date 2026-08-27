@@ -1,5 +1,51 @@
 # @keystatic/core
 
+## 0.6.9
+
+### Patch Changes
+
+- Updated dependencies [[`dbb0bb5`](https://github.com/Thinkmill/keystatic/commit/dbb0bb53d2c4d77ee4ed1f4cb7bea04266036592)]:
+  - @keystar/ui@0.10.0
+
+## 0.6.8
+
+### Patch Changes
+
+- [#1610](https://github.com/Thinkmill/keystatic/pull/1610) [`e16a55a`](https://github.com/Thinkmill/keystatic/commit/e16a55a157de23080e4e776d48576ca73736263e) Thanks [@emmatown](https://github.com/emmatown)! - `@keystar/ui` is now depended with a ~ instead of an exact version
+- Updated dependencies [[`28c823f`](https://github.com/Thinkmill/keystatic/commit/28c823f0646efccd5f392961ae4f8d2a23a77f4a)]:
+  - @keystar/ui@0.9.6
+
+## 0.6.7
+
+### Patch Changes
+
+- [#1604](https://github.com/Thinkmill/keystatic/pull/1604) [`41aa38f`](https://github.com/Thinkmill/keystatic/commit/41aa38f035f6f5e5620d291e89d647aee05beac7) Thanks [@emmatown](https://github.com/emmatown)! - Reduce size of package.json
+
+- Updated dependencies [[`4688f77`](https://github.com/Thinkmill/keystatic/commit/4688f77b37755a1a4b8719feb7e11dfa82f392f0), [`41aa38f`](https://github.com/Thinkmill/keystatic/commit/41aa38f035f6f5e5620d291e89d647aee05beac7)]:
+  - @keystar/ui@0.9.5
+
+## 0.6.6
+
+### Patch Changes
+
+- [#1601](https://github.com/Thinkmill/keystatic/pull/1601) [`4dca0ca`](https://github.com/Thinkmill/keystatic/commit/4dca0cac2269a05ad2bdc4906cbc7fb57a03d7c5) Thanks [@emmatown](https://github.com/emmatown)! - Support GitHub rulesets to automatically create a branch when pull requests are required
+
+- [#1602](https://github.com/Thinkmill/keystatic/pull/1602) [`3c34f58`](https://github.com/Thinkmill/keystatic/commit/3c34f589fe59d3faa83e5c35bad9c39b6713e362) Thanks [@emmatown](https://github.com/emmatown)! - Update to minimatch@10
+
+- [#1603](https://github.com/Thinkmill/keystatic/pull/1603) [`b4371f5`](https://github.com/Thinkmill/keystatic/commit/b4371f5649d320dc186c54137aee6284db3ab661) Thanks [@emmatown](https://github.com/emmatown)! - Update to match-sorter@8
+
+- Updated dependencies [[`16373ad`](https://github.com/Thinkmill/keystatic/commit/16373adea441970a69997c3a573cec16d6f7ebb7)]:
+  - @keystar/ui@0.9.4
+
+## 0.6.5
+
+### Patch Changes
+
+- [#1577](https://github.com/Thinkmill/keystatic/pull/1577) [`bcc7105`](https://github.com/Thinkmill/keystatic/commit/bcc710561ed76701a7cb8896f8ff6e0a668eeee2) Thanks [@renatomprado](https://github.com/renatomprado)! - Fix pt-BR (Brazilian Portuguese) translations: `save` said "Guardar" (European Portuguese) and the git terms were mistranslated as unrelated words
+
+- Updated dependencies [[`b130a08`](https://github.com/Thinkmill/keystatic/commit/b130a0864dbc094ee8afc32d70429318cff2e48a)]:
+  - @keystar/ui@0.9.3
+
 ## 0.6.4
 
 ### Patch Changes

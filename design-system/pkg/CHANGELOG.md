@@ -1,5 +1,37 @@
 # @keystar/ui
 
+## 0.10.0
+
+### Minor Changes
+
+- [#1612](https://github.com/Thinkmill/keystatic/pull/1612) [`dbb0bb5`](https://github.com/Thinkmill/keystatic/commit/dbb0bb53d2c4d77ee4ed1f4cb7bea04266036592) Thanks [@emmatown](https://github.com/emmatown)! - Add generic `useNavigate`, `usePathname`, and `useSearch` router hooks with support for replacement navigation.
+
+## 0.9.6
+
+### Patch Changes
+
+- [#1608](https://github.com/Thinkmill/keystatic/pull/1608) [`28c823f`](https://github.com/Thinkmill/keystatic/commit/28c823f0646efccd5f392961ae4f8d2a23a77f4a) Thanks [@emmatown](https://github.com/emmatown)! - Fix combobox scrolling with non-overlay scrollbars
+
+## 0.9.5
+
+### Patch Changes
+
+- [#1607](https://github.com/Thinkmill/keystatic/pull/1607) [`4688f77`](https://github.com/Thinkmill/keystatic/commit/4688f77b37755a1a4b8719feb7e11dfa82f392f0) Thanks [@emmatown](https://github.com/emmatown)! - Fix ComboboxMulti not clearing search when clicking on an item
+
+- [#1604](https://github.com/Thinkmill/keystatic/pull/1604) [`41aa38f`](https://github.com/Thinkmill/keystatic/commit/41aa38f035f6f5e5620d291e89d647aee05beac7) Thanks [@emmatown](https://github.com/emmatown)! - Reduce size of package.json
+
+## 0.9.4
+
+### Patch Changes
+
+- [#1599](https://github.com/Thinkmill/keystatic/pull/1599) [`16373ad`](https://github.com/Thinkmill/keystatic/commit/16373adea441970a69997c3a573cec16d6f7ebb7) Thanks [@emmatown](https://github.com/emmatown)! - Fix combobox inputs losing focus when typing
+
+## 0.9.3
+
+### Patch Changes
+
+- [#1590](https://github.com/Thinkmill/keystatic/pull/1590) [`b130a08`](https://github.com/Thinkmill/keystatic/commit/b130a0864dbc094ee8afc32d70429318cff2e48a) Thanks [@emmatown](https://github.com/emmatown)! - Fix listboxes in popovers sometimes not scrolling properly
+
 ## 0.9.2
 
 ### Patch Changes
